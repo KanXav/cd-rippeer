@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/hola.dir/link.d CMakeFiles/hola.dir/main.c.o -o hola
