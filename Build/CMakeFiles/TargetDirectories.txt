@@ -1,3 +1,0 @@
-/home/kan/IdeaProjects/C/cd-ripper/Build/CMakeFiles/hola.dir
-/home/kan/IdeaProjects/C/cd-ripper/Build/CMakeFiles/edit_cache.dir
-/home/kan/IdeaProjects/C/cd-ripper/Build/CMakeFiles/rebuild_cache.dir
